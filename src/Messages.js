@@ -122,8 +122,8 @@ this.setState({deletedPersonslist:deletedPersonslist[i]});
             return(
              
              <Content 
-                key={person.id}
-                {...person}
+                key={person[0].id}
+                {...person[0]}
                 onDelete={this.onDelete}
                 hidden={'hidden'}
                 query={this.state.query}
