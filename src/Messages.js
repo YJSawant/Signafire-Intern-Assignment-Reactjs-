@@ -78,7 +78,7 @@ let deletedPersonslist=this.state.deletedPersonslist;
 deletedPersonslist.push(deletedPersons);
 
 for (let i = 0; i < deletedPersonslist.length ; i++) {
-this.setState({deletedPersonslist:deletedPersonslist[i]});
+this.setState({deletedPersonslist:deletedPersonslist});
 }
 }
 
