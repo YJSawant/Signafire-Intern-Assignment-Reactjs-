@@ -6,6 +6,8 @@ Create a app using the above details.
 Then replace all the files except the node modules by my files in this repo.
 The src and public folder contains the code developed by me.
 
+Go to my app directory and then run the below mentioned commands
+
 ## Available Scripts
 
 In the project directory, you can run:
