@@ -1,4 +1,10 @@
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+Create a app using the above details.
+
+Then replace all the files except the node modules by my files in this repo.
+The src and public folder contains the code developed by me.
 
 ## Available Scripts
 
